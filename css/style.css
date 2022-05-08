@@ -14,6 +14,10 @@ p {
     color: #603A03;
 }
 
+#iniciar {
+	font-family: Titulo;
+}
+
 body {
 	background-image: url(../imgs/fundo.jpg);
 }
@@ -241,4 +245,22 @@ h2 {
 	position: absolute;
 	left: 750px;
 	top: 7px;	
+}
+
+h3 {
+	font-family: Titulo;
+	font-size: 20px;
+	color: #603A03;
+}
+
+#fim {
+	width: 350px;
+	height: 200px;
+	background-color: #ffebd0;
+ 	margin-left: auto;
+    margin-right: auto;
+ 	margin-top: 100px;
+	border-radius: 5px;
+	text-align: center;
+	padding: 10px;
 }
